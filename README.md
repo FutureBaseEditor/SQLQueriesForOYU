@@ -20,10 +20,10 @@
 * Comedy filmlerinin ortalama puanı kaçtır? :heavy_check_mark:
 * Korku filmlerimi daha başarılı yoksa komedi mi? :heavy_check_mark:
 * En yüksek puanı alan filmin yönetmeni kimdir ? :heavy_check_mark:
-* En yaşlı yönetmen kimdir ? 
-* En çok filmi olan yönetmen kimdir ? 
-* En çok filmde oynayan oyuncu kimdir ? 
-* En çok filmde oynayan oyuncu kimlerle ortak filmlerde ooynamıştır?
-* Hangi yönetmen hangi yapım şirketi ile kaç film paylaşmıştır?
-* Hangi oyunucu hangi yönetmenle kaç film paylaşmıştır ?
+* En yaşlı yönetmen kimdir ? :heavy_check_mark:
+* En çok filmi olan yönetmen kimdir ? :heavy_check_mark:
+* En çok filmde oynayan oyuncu kimdir ? :heavy_check_mark:
+* En çok filmde oynayan oyuncu kimlerle ortak filmlerde ooynamıştır? :heavy_check_mark:
+* Hangi yönetmen hangi yapım şirketi ile kaç film paylaşmıştır? :heavy_check_mark:
+* Hangi oyunucu hangi yönetmenle kaç film paylaşmıştır ? :heavy_check_mark:
 
